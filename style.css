@@ -1,0 +1,204 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.img {
+    font-family: 'Libre Franklin', sans-serif;
+    font-Weight: 300px;
+    height: 80px;
+    width: 300px;
+    position: absolute;
+    top: 2%;
+    left: 35%;
+}
+.h1 {
+    font-Weight: 300px;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 70px;
+    position: absolute;
+    top: 8%;
+    left: 15%;
+}
+.so {
+    position: absolute;
+    top: -5px;
+    left: 104%;
+}
+.h2 {
+    font-Weight: 300px;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 50px;
+    position: absolute;
+    top: 15%;
+    left: 22%;
+}
+
+.inp {
+    font-Weight: 300px;
+    padding-left: 100px;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 300%;
+    position: absolute;
+    top: 22%;
+    left: 8%;
+    border-radius: 100px;
+    width: 74%;
+    height: 150px;
+}
+.button {
+    font-Weight: 300px;
+    font-family: 'Libre Franklin', sans-serif;
+    position: absolute;
+    top: 33%;
+    left: 8%;
+    font-size: 300%;
+    border-radius: 100px;
+    height: 8%;
+    width: 85%;
+    background-color: hsl(223, 87%, 63%);
+    color: white;
+}
+.img1 {
+    font-Weight: 300px;
+    font-family: 'Libre Franklin', sans-serif;
+    position: absolute;
+    top: 47%;
+    left: 0%;
+    width: 1000px;
+}
+.fb {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 100px;
+    position: absolute;
+    top: 85%;
+    left: 25%;
+}
+.twit {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 100px;
+    position: absolute;
+    top: 85%;
+    left: 50%;
+}
+.insta {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 100px;
+    position: absolute;
+    top: 85%;
+    left: 75%;
+}
+.cpr {
+    font-Weight: 300px;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 40px;
+    position: absolute;
+    top: 95.1%;
+    left: 12%;
+}
+.cp {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 40px;
+    position: absolute;
+    top: 95%;
+    left: 18%;
+    letter-spacing: 3px;
+}
+
+@media screen and (min-width:1024px) {
+    .img{
+    font-family: 'Libre Franklin', sans-serif;
+    font-Weight: 300px;
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    top: 2%;
+    left: 47%;
+    }
+    .h1 {
+        font-Weight: 500px;
+        font-family: 'Libre Franklin', sans-serif;
+        font-size: 40px;
+        position: absolute;
+        top: 8%;
+        left: 30%;
+    }
+    .h2 {
+        font-Weight: 300px;
+        font-family: 'Libre Franklin', sans-serif;
+        font-size: 26px;
+        position: absolute;
+        top: 17%;
+        left: 36%;
+    }
+    .inp {
+        font-Weight: 300px;
+        padding-left: 50px;
+        font-family: 'Libre Franklin', sans-serif;
+        font-size: 200%;
+        position: absolute;
+        top: 25%;
+        left: 6%;
+        border-radius: 100px;
+        width: 52%;
+        height: 50px;
+    }
+    .button {
+        font-Weight: 300px;
+        font-family: 'Libre Franklin', sans-serif;
+        position: absolute;
+        top: 25%;
+        left: 65%;
+        font-size: 200%;
+        border-radius: 100px;
+        height: 55px;
+        width: 29%;
+        background-color: hsl(223, 87%, 63%);
+        color: white;
+    }
+    .img1 {
+        font-Weight: 300px;
+        font-family: 'Libre Franklin', sans-serif;
+        position: absolute;
+        height: 250px;
+        top: 41%;
+        left: 22%;
+        width: 550px;
+    }
+    .fb {
+        font-family: 'Libre Franklin', sans-serif;
+        font-size: 25px;
+        position: absolute;
+        top: 85%;
+        left: 45%;
+    }
+    .twit {
+        font-family: 'Libre Franklin', sans-serif;
+        font-size: 25px;
+        position: absolute;
+        top: 85%;
+        left: 50%;
+    }
+    .insta {
+        font-family: 'Libre Franklin', sans-serif;
+        font-size: 25px;
+        position: absolute;
+        top: 85%;
+        left: 55%;
+    }
+    .cpr {
+        font-Weight: 300px;
+        font-family: 'Libre Franklin', sans-serif;
+        font-size: 20px;
+        position: absolute;
+        top: 92%;
+        left: 30%;
+    }
+    .cp {
+        font-family: 'Libre Franklin', sans-serif;
+        font-size: 20px;
+        position: absolute;
+        top: 92%;
+        left: 33%;
+        letter-spacing: 3px;
+    }
+}
